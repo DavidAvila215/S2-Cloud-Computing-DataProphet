@@ -1,6 +1,7 @@
 
 import json
 import joblib
+import numpy as np
 import pandas as pd
 from azureml.core.model import Model
 
